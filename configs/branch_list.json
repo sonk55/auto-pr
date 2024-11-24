@@ -1,0 +1,180 @@
+{
+    "branches": [
+        {
+            "name": "develop",
+            "tags": [
+                "UNFIXED",
+                "KOR",
+                "SPOTIFY",
+                "USA",
+                "EUR"
+            ]
+        },
+        {
+            "name": "@s6mobis_mv1pe_step45",
+            "tags": [
+                "FIXED",
+                "JPN",
+                "APPLE",
+                "EUR"
+            ]
+        },
+        {
+            "name": "@s6mobis_mv1pe_step46",
+            "tags": [
+                "UNFIXED",
+                "CHN",
+                "YOUTUBE",
+                "USA"
+            ]
+        },
+        {
+            "name": "@s6mobis_mv1pe_step47",
+            "tags": [
+                "FIXED",
+                "VNM",
+                "AMAZON",
+                "AUS"
+            ]
+        },
+        {
+            "name": "test4",
+            "tags": [
+                "UNFIXED",
+                "THA",
+                "NETFLIX",
+                "CAN"
+            ]
+        },
+        {
+            "name": "test5",
+            "tags": [
+                "FIXED",
+                "IDN",
+                "SPOTIFY",
+                "GBR"
+            ]
+        },
+        {
+            "name": "test6",
+            "tags": [
+                "UNFIXED",
+                "MYS",
+                "APPLE",
+                "DEU"
+            ]
+        },
+        {
+            "name": "test7",
+            "tags": [
+                "FIXED",
+                "SGP",
+                "YOUTUBE",
+                "FRA"
+            ]
+        },
+        {
+            "name": "test8",
+            "tags": [
+                "UNFIXED",
+                "PHL",
+                "AMAZON",
+                "ITA"
+            ]
+        },
+        {
+            "name": "test9",
+            "tags": [
+                "FIXED",
+                "TWN",
+                "NETFLIX",
+                "ESP"
+            ]
+        },
+        {
+            "name": "test10",
+            "tags": [
+                "UNFIXED",
+                "HKG",
+                "SPOTIFY",
+                "NLD"
+            ]
+        },
+        {
+            "name": "test11",
+            "tags": [
+                "FIXED",
+                "MAC",
+                "APPLE",
+                "BEL"
+            ]
+        },
+        {
+            "name": "test12",
+            "tags": [
+                "UNFIXED",
+                "IND",
+                "YOUTUBE",
+                "CHE"
+            ]
+        },
+        {
+            "name": "test13",
+            "tags": [
+                "FIXED",
+                "PAK",
+                "AMAZON",
+                "SWE"
+            ]
+        },
+        {
+            "name": "test14",
+            "tags": [
+                "UNFIXED",
+                "BGD",
+                "NETFLIX",
+                "NOR"
+            ]
+        },
+        {
+            "name": "test15",
+            "tags": [
+                "FIXED",
+                "NPL",
+                "SPOTIFY",
+                "DNK"
+            ]
+        },
+        {
+            "name": "test16",
+            "tags": [
+                "UNFIXED",
+                "LKA",
+                "APPLE",
+                "FIN"
+            ]
+        },
+        {
+            "name": "test17",
+            "tags": [
+                "FIXED",
+                "KHM",
+                "YOUTUBE",
+                "POL"
+            ]
+        },
+        {
+            "name": "test18",
+            "tags": [
+                "UNFIXED",
+                "MMR",
+                "AMAZON",
+                "AUT"
+            ]
+        },
+        {
+            "name": "test",
+            "tags": []
+        }
+    ]
+}
